@@ -10,5 +10,8 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 Contact GitHub API Training Shop Blog About
 
+=======
+>>>>>>> 49ce11c23bf01fc3a555daa24e482f3171b0b5bd
