@@ -1,17 +1,47 @@
+# Compiled source #
+###################
+*.com
 *.class
+*.dll
+*.exe
+*.o
+*.so
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
 *.jar
-*.war
-*.ear
-.DS_Store
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-<<<<<<< HEAD
-Contact GitHub API Training Shop Blog About
+*.rar
+*.tar
+*.zip
 
-=======
->>>>>>> 49ce11c23bf01fc3a555daa24e482f3171b0b5bd
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Eclipse Files to Ignore #
+###########################
+/bin
+.settings
+
+#Build Files#
+##########################
+
+_build
